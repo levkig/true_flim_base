@@ -1,6 +1,6 @@
 {
-  "homepage": "http://levkig.github.io/true_film_base",
-  "name": "true_film_base",
+  "homepage": "http://levkig.github.io/true_flim_base",
+  "name": "true_flim_base",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
