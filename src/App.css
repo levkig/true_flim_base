@@ -109,3 +109,38 @@ body {
   flex-direction: column;
   align-items: center;
 }
+.button-container button {
+  margin-right: 10px;
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+
+.button-container button:nth-child(1) {
+  background-image: url('/mexico.png');
+}
+
+.button-container button:nth-child(2) {
+  background-image: url('/honduras.png');
+}
+
+.button-container button:nth-child(3) {
+  background-image: url('/el-salvador.png');
+}
+
+.button-container button:nth-child(4) {
+  background-image: url('/colombia.png');
+}
+
+.button-container button:nth-child(5) {
+  background-image: url('/serbia.png');
+}
+
+.button-container button:last-child {
+  margin-right: 0;
+}
