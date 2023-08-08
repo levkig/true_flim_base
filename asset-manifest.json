@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/true_flim_base/static/css/main.e6c13ad2.css",
-    "main.js": "/true_flim_base/static/js/main.abdc32e2.js",
-    "static/js/787.e5abea6d.chunk.js": "/true_flim_base/static/js/787.e5abea6d.chunk.js",
+    "main.css": "/true_flim_base/static/css/main.77685083.css",
+    "main.js": "/true_flim_base/static/js/main.ed7ce05b.js",
+    "static/js/787.79df654d.chunk.js": "/true_flim_base/static/js/787.79df654d.chunk.js",
     "index.html": "/true_flim_base/index.html",
-    "main.e6c13ad2.css.map": "/true_flim_base/static/css/main.e6c13ad2.css.map",
-    "main.abdc32e2.js.map": "/true_flim_base/static/js/main.abdc32e2.js.map",
-    "787.e5abea6d.chunk.js.map": "/true_flim_base/static/js/787.e5abea6d.chunk.js.map"
+    "main.77685083.css.map": "/true_flim_base/static/css/main.77685083.css.map",
+    "main.ed7ce05b.js.map": "/true_flim_base/static/js/main.ed7ce05b.js.map",
+    "787.79df654d.chunk.js.map": "/true_flim_base/static/js/787.79df654d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.abdc32e2.js"
+    "static/css/main.77685083.css",
+    "static/js/main.ed7ce05b.js"
   ]
 }
