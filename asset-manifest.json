@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/true_flim_base/static/css/main.77685083.css",
-    "main.js": "/true_flim_base/static/js/main.ed7ce05b.js",
+    "main.css": "/true_flim_base/static/css/main.f6f3f59c.css",
+    "main.js": "/true_flim_base/static/js/main.13dda230.js",
     "static/js/787.79df654d.chunk.js": "/true_flim_base/static/js/787.79df654d.chunk.js",
     "index.html": "/true_flim_base/index.html",
-    "main.77685083.css.map": "/true_flim_base/static/css/main.77685083.css.map",
-    "main.ed7ce05b.js.map": "/true_flim_base/static/js/main.ed7ce05b.js.map",
+    "main.f6f3f59c.css.map": "/true_flim_base/static/css/main.f6f3f59c.css.map",
+    "main.13dda230.js.map": "/true_flim_base/static/js/main.13dda230.js.map",
     "787.79df654d.chunk.js.map": "/true_flim_base/static/js/787.79df654d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77685083.css",
-    "static/js/main.ed7ce05b.js"
+    "static/css/main.f6f3f59c.css",
+    "static/js/main.13dda230.js"
   ]
 }
