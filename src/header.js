@@ -1,7 +1,28 @@
 import React from "react";
 
 const Header = ({ setCurrindex }) => {
-  const buttons = ["Mexico", "Honduras", "Salvador", "Colombia", "Serbia"];
+  const buttons = [
+    "Mexico",
+    "Honduras",
+    "Salvador",
+    "Colombia",
+    "Serbia",
+    "France",
+    "Germany",
+    "Spain",
+    "Italy",
+    "Russia",
+    "Japan",
+    "China",
+    "India",
+    "South Korea",
+    "Thailand",
+    "Canada",
+    "USA",
+    "Brazil",
+    "Argentina",
+    "Chile",
+  ];
 
   return (
     <div className="header-container">

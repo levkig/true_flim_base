@@ -140,6 +140,64 @@ body {
 .button-container button:nth-child(5) {
   background-image: url('/serbia.png');
 }
+.button-container button:nth-child(6) {
+  background-image: url('/france.png');
+}
+
+.button-container button:nth-child(7) {
+  background-image: url('/germany.png');
+}
+
+.button-container button:nth-child(8) {
+  background-image: url('/spain.png');
+}
+
+.button-container button:nth-child(9) {
+  background-image: url('/italy.png');
+}
+
+.button-container button:nth-child(10) {
+  background-image: url('/russia.png');
+}
+.button-container button:nth-child(11) {
+  background-image: url('/japan.png');
+}
+
+.button-container button:nth-child(12) {
+  background-image: url('/china.png');
+}
+
+.button-container button:nth-child(13) {
+  background-image: url('/india.png');
+}
+
+.button-container button:nth-child(14) {
+  background-image: url('/south-korea.png');
+}
+
+.button-container button:nth-child(15) {
+  background-image: url('/thailand.png');
+}
+
+.button-container button:nth-child(16) {
+  background-image: url('/canada.png');
+}
+
+.button-container button:nth-child(17) {
+  background-image: url('/usa.png');
+}
+
+.button-container button:nth-child(18) {
+  background-image: url('/brazil.png');
+}
+
+.button-container button:nth-child(19) {
+  background-image: url('/argentina.png');
+}
+
+.button-container button:nth-child(20) {
+  background-image: url('/chile.png');
+}
 
 .button-container button:last-child {
   margin-right: 0;
